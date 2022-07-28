@@ -1,0 +1,32 @@
+{
+    "entries": [
+        {
+            "id": 1,
+            "date": "07/24/2025",
+            "concept": "Welcome to NSS",
+            "entry": "We met our cohort and got to watch other cohorts collaborate and present their projects!",
+            "mood": "Happy"
+        },
+        {
+            "id": 2,
+            "date": "08/15/2025",
+            "concept": "Git",
+            "entry": "We talked about using git in the terminal and how to connect it to GitHub through push and pull requests.",
+            "mood": "Confused"
+        },
+        {
+            "id": 3,
+            "date": "09/26/2025",
+            "concept": "ERDs",
+            "entry": "We talked about the structure and relationships of ERDs.",
+            "mood": "Nervous"
+        },
+        {
+            "id": 4,
+            "date": "10/01/2025",
+            "concept": "Paired Programming",
+            "entry": "We got to practice paired programming through our group project today, and it went so well! It's so much fun working with our team.",
+            "mood": "Carefree"
+        }
+    ]
+}
